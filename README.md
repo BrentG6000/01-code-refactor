@@ -8,7 +8,7 @@ attempted to fix.
 
 ## Installation
 
-You can view the completed site here: 
+You can view the completed site here: https://brentg6000.github.io/01-code-refactor/
 
 ## Usage
 
